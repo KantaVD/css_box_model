@@ -1,0 +1,40 @@
+body { 
+    margin: auto;
+    width: 80%;
+    color: #475d66;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    background-color: cyan;
+}
+
+h1 + p {
+    font-size: 1,2em;
+    font-weight: 800;
+    color: crimson;
+}
+
+p {
+    font-size: 15px;
+
+}
+
+figure {
+    border: 2px dotted blueviolet;
+    width: 60%;
+}
+figcaption {
+    color: red;
+}
+
+.black-border {
+    border:darkorchid 15px ridge;
+}
+
+#green-background {
+    background-color: green;
+    color: wheat;
+    border: green 10px outset;
+    border-radius: 10px;
+    padding:30px;
+    margin-left: 40px;
+    width: 300px;
+}
